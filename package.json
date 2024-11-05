@@ -1,0 +1,11 @@
+{
+  "name": "weding-inv",
+  "version": "1.0.0",
+  "description": "simran & mayur wedding",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "",
+  "license": "ISC"
+}
